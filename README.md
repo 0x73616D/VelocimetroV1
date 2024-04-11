@@ -16,7 +16,8 @@ Este script reemplaza el velocimetro por defecto de FenixZone por uno mas modern
 - Moonloader 026.5 (incluido con el mod)
 
 ## ☄️ Instalación:
-Para adquirir este script contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
+Para adquirir un script similar o para realizar tu propio diseño contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
 
 ## 👀 Vista dentro del juego:
-![Vista dentro del juego](https://media.discordapp.net/attachments/1223021168663986228/1223023950611615754/image-5.png?ex=661858d0&is=6605e3d0&hm=5fa6c282587c29fcac9cee67f8e29adc2bf49eeff69fb8e3fafadf9a87896185&=&format=webp&quality=lossless)
+![Vista dentro del juego]!(https://github.com/0x73616D/VelocimetroV1/assets/94794277/0d389bb6-e004-4acf-96ef-019fc2a9507a)
+
