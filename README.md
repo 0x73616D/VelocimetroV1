@@ -19,5 +19,5 @@ Este script reemplaza el velocimetro por defecto de FenixZone por uno mas modern
 Para adquirir un script similar o para realizar tu propio diseño contacta conmigo en mi discord: [Aquí](https://discord.com/users/717764929113030756)
 
 ## 👀 Vista dentro del juego:
-![Vista dentro del juego]!(https://github.com/0x73616D/VelocimetroV1/assets/94794277/0d389bb6-e004-4acf-96ef-019fc2a9507a)
+![Vista dentro del juego](https://github.com/0x73616D/VelocimetroV1/assets/94794277/0d389bb6-e004-4acf-96ef-019fc2a9507a)
 
